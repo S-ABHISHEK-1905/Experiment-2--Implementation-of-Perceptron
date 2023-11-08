@@ -55,7 +55,7 @@ Indeed if the neuron output is exactly zero it cannot be assumed that the sample
 
 ### DEVELOPED BY :
 #### NAME: S.ABHISHEK
-#### REG.NO.: 212221230077
+#### REG.NO.: 212221230002
 
 ```python
 import numpy as np
